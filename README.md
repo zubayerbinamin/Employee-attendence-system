@@ -18,7 +18,7 @@ Type in the employee ID and press submit. It will record your clock-in time. Cli
 
 b.	Running the code on your computer
 
-Make sure to install Django with:
+Open VS code and make sure to install Django with:
 
 	pip3 install Django 
 
