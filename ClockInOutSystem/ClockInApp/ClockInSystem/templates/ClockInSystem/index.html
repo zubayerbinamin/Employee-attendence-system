@@ -1,0 +1,43 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Clock In</title>
+        <link rel="stylesheet" href="{% static 'ClockInSystem/styles.css' %}">
+    </head>
+    <body>
+        <div id="nav-bar">
+            <button id="clock-view-btn">Clock In/Out</button>
+            <button id="schedule-view-btn">Log</button>
+        </div>
+        <div id="clock-container">
+            <div id="clock">
+                00:00:00
+            </div>
+            <input type="number" id="text-box" placeholder="Enter ID here">
+            <div class="button-container">
+                <button id="clock-in">Clock In</button>
+                <button id="clock-out">Clock Out</button>
+            </div>
+        </div>
+        <div id="schedule-container" style="display: none;">
+                <table id="schedule-list">
+                    <thead>
+                        <tr>
+                            <th>Guard ID</th>
+                            <th>Clock In Time</th>
+                            <th>Clock In Date</th>
+                            <th>Clock Out Time</th>
+                            <th>Clock Out Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                    </tbody>
+                </table>
+        </div>
+        
+        <script src="{% static 'ClockInSystem/index.js' %}"></script>
+    </body>
+</html>
