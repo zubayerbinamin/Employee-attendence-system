@@ -8,10 +8,14 @@ All my colleagues and I would use pen and paper to clock in by writing our emplo
 
 # Quick Start
 Either
-a.	Running the website link
+
+a.Running the website link
+
 NOTE: may take 50 seconds for the website to load for the first time as a free hosting service is used
+
 Navigate to the following Link:
 Type in the employee ID and press submit. It will record your clock-in time. Click on ‘log’ to see the database. Then, clock out using the same employee ID, and it will update the object in the database with the clock-out time.
+
 b.	Running the code on your computer
 Make sure to install Django with:
 After opening the clock-in app in VS code, make sure your terminal shows ‘your-computer’/ClockInOutSystem/ClockInApp. You can do this by typing the following in the terminal:
