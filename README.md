@@ -9,7 +9,7 @@ All my colleagues and I would use pen and paper to clock in by writing our emplo
 # Quick Start
 Either
 
-a.Running the website link
+a. Running the website link
 
 NOTE: may take 50 seconds for the website to load for the first time as a free hosting service is used
 
@@ -18,14 +18,24 @@ Type in the employee ID and press submit. It will record your clock-in time. Cli
 
 b.	Running the code on your computer
 Make sure to install Django with:
+
 After opening the clock-in app in VS code, make sure your terminal shows ‘your-computer’/ClockInOutSystem/ClockInApp. You can do this by typing the following in the terminal:
+
 	cd ClockInApp
+ 
 Then type:
+
 	python manage.py makemigrations
+ 
 Then type:
+
 	python manage.py migrate
+ 
 Then type:
+
 	Python manage.py runserver
+ 
 Then click on the link it generates, and then type the following in the browser:
+
 	‘link-generated-by-your-computer’/ClockInSystem
 
