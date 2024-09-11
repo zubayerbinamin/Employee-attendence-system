@@ -4,7 +4,7 @@ An employee attendance website where employees input their ID and a clock-in tim
 Technologies used: Python, JavaScript, Django, APIs
 
 # Motivation 
-All my colleagues and I would use pen and paper to clock in by writing our employee ID, full name, etc., on a sheet of paper, which my site manager would then take hours to tediously type into an Excel spreadsheet. To improve this, I developed an employee attendance website to make it efficient for my colleagues to clock in to create an attendance database while saving my site manager hours of tedious data entry work.
+All my colleagues and I would use pen and paper to clock in by writing our employee ID, full name, etc. on a sheet of paper, which my site manager would then take hours to tediously type into an Excel spreadsheet. To improve this, I developed an employee attendance website to make it efficient for my colleagues to clock in to create an attendance database while saving my site manager hours of tedious data entry work.
 
 # Quick Start
 Either
