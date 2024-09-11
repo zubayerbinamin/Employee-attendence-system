@@ -1,6 +1,8 @@
 # Employee-attendence-system
 An employee attendance website where employees input their ID and a clock-in time is stored in a database for their ID using an API. When an employee clocks out, it updates the object in the database using another API. The employer can then access the database in a table on the website.
 
+Commissionaires site manager used my website for test runs.
+
 Technologies used: Python, JavaScript, Django, APIs
 
 # Motivation 
