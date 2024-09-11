@@ -17,7 +17,10 @@ Navigate to the following Link:
 Type in the employee ID and press submit. It will record your clock-in time. Click on ‘log’ to see the database. Then, clock out using the same employee ID, and it will update the object in the database with the clock-out time.
 
 b.	Running the code on your computer
+
 Make sure to install Django with:
+
+	pip3 install Django 
 
 After opening the clock-in app in VS code, make sure your terminal shows ‘your-computer’/ClockInOutSystem/ClockInApp. You can do this by typing the following in the terminal:
 
@@ -31,7 +34,7 @@ Then type:
 
 	python manage.py migrate
  
-Then type:
+Then run the server:
 
 	Python manage.py runserver
  
