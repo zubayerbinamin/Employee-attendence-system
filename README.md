@@ -14,7 +14,8 @@ Either
 a. Running the web application link
 
 NOTE: may take 50 seconds for the web application to load for the first time as a free hosting service is used
-Link: commissionaries.onrender.com/ClockInSystem/ 
+
+Link: [commissionaries.onrender.com/ClockInSystem/ ](https://commissionaries.onrender.com/ClockInSystem/) 
 
 Navigate to the following Link:
 Type in the employee ID and press submit. It will record your clock-in time. Click on ‘log’ to see the database. Then, clock out using the same employee ID, and it will update the object in the database with the clock-out time.
